@@ -43,10 +43,8 @@ WORDS = [
     "itachi","kisame","pain","nagato","konan","madara","obito","konoha",
     "akatsuki","byakugan","sharingan","chidori","rasengan","shuriken","kunai",
     "chakra","hokage","kazekage","mizukage","raikage","tsuchikage",
-    "konohagakure","sunagakure","kirigakure","kumogakure","iwagakure",
-    "amegakure","otogakure","takigakure","rasenshuriken","amaterasu",
-    "tsukuyomi","susanoo","izanagi","izanami","kamui","raikiri","hiraishin",
-    "byakugo",
+    "rasenshuriken","amaterasu","tsukuyomi","susanoo","izanagi","izanami",
+    "kamui","raikiri","hiraishin"
 
     # Songs (Foo Fighters, Beatles, Royal Blood, Decemberists)
     "aurora","generator","resolve","rope","run","walk","low","everlong",

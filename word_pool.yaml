@@ -137,14 +137,6 @@ naruto:
   - mizukage
   - raikage
   - tsuchikage
-  - konohagakure
-  - sunagakure
-  - kirigakure
-  - kumogakure
-  - iwagakure
-  - amegakure
-  - otogakure
-  - takigakure
   - rasenshuriken
   - amaterasu
   - tsukuyomi
@@ -153,8 +145,6 @@ naruto:
   - izanami
   - kamui
   - raikiri
-  - hiraishin
-  - byakugo
 
 songs:
   foo_fighters:
